@@ -4,3 +4,5 @@
 [전국 신규 민간아파트 분양가격 동향](https://github.com/seung0/Python/blob/master/apart_prize.ipynb)
 
 [코로나19 동향 분석1](https://github.com/seung0/Python/blob/master/COVID19(1).ipynb)
+
+[코로나19 동향 분석2](https://github.com/seung0/Python/blob/master/COVID19(2).ipynb)
