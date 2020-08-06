@@ -6,3 +6,5 @@
 [코로나19 동향 분석1](https://github.com/seung0/Python/blob/master/COVID19(1).ipynb)
 
 [코로나19 동향 분석2](https://github.com/seung0/Python/blob/master/COVID19(2).ipynb)
+
+[스타벅스와 이디야](https://github.com/seung0/Python/blob/master/starbucks-ediya-coffee-.ipynb)
